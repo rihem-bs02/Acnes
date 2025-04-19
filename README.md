@@ -1,14 +1,7 @@
 ---
 title: Acne Detection AI 🔥
-emoji: 🔥
-colorFrom: indigo
-colorTo: yellow
-sdk: gradio
-sdk_version: 5.25.2
-app_file: app.py
-pinned: true
-license: apache-2.0
-short_description: Advanced AI for Acne Segmentation & Severity Classification
+
+short_description: Acne Segmentation & Severity Classification
 ---
 
 # 🧠 Acne Detection & Classification with Deep Learning
