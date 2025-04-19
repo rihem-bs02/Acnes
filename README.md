@@ -4,7 +4,7 @@ title: Acne Detection AI 🔥
 short_description: Acne Segmentation & Severity Classification
 ---
 
-# 🧠 Acne Detection & Classification with Deep Learning
+#Acne Detection & Classification with Deep Learning
 
 ![banner](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/output1.png) <!-- You can upload a real image here -->
 
