@@ -71,5 +71,6 @@ It will return:
 ## 🤖 Try it now!
 
 Click below and upload a photo to get real-time predictions:
+[https://huggingface.co/spaces/RihemXX/Acnes](https://huggingface.co/spaces/RihemXX/Acnes)
 
 Check out the configuration reference at [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/docs/hub/spaces-config-reference)
