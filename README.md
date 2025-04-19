@@ -41,7 +41,7 @@ It will return:
 
 |Classification| Segmentation Overlay | Acne Level |
 |-------------|----------------------|------------|
-| ![input](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/image.png) | ![overlay](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/output.png) | Level 2: Moderate Acne |
+| ![input](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/image.png) | ![overlay](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/output.png) | Level 3: Sever Acne |
 
 ---
 
