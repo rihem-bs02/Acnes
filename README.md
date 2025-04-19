@@ -39,7 +39,7 @@ It will return:
 
 ## 📈 Example Output
 
-| Input Image | Segmentation Overlay | Acne Level |
+|Classification| Segmentation Overlay | Acne Level |
 |-------------|----------------------|------------|
 | ![input](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/image.png) | ![overlay](https://huggingface.co/spaces/RihemXX/Acnes/resolve/main/images/output.png) | Level 2: Moderate Acne |
 
